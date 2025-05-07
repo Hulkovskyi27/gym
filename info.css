@@ -1,0 +1,50 @@
+body{
+    background: linear-gradient(135deg, #000000a6, #730576);
+}
+.rounded-img {   
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
+    transition: transform 0.3s ease-in-out;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    display: block;     
+    margin: auto;
+  }
+p{
+  padding: 0 16px;
+  background: linear-gradient(263.66deg, #4eefd1 5.89%, #017aa2 114.87%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 50px;
+  font-weight: 900;
+  text-transform: uppercase;
+  text-align: center;
+}  
+h1 {
+    margin-bottom: 10;
+    font-size: 30px;    
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+h2 {
+  padding: 0 16px;
+  background: linear-gradient(263.66deg, #4eefd1 5.89%, #017aa2 114.87%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 50px;
+  font-weight: 900;
+  text-transform: uppercase;
+  text-align: center;
+}
+h3 {
+  color: #ffffff;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-weight: 200px;
+    font-size: 20px;
+    max-width: 700px;
+    padding: 0 16px;
+    transition: .3s;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}

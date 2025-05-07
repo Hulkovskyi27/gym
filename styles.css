@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+}
+p{
+    font-size: 16px;
+}
+ body {
+        background-color: #f0f8ff
+        }
+  body table{
+    border: 2px solid black;
+  }
+
+  .container {
+    width: 20%;
+    height: 700px;
+    background-color: #ff0000;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 20px;
+}
